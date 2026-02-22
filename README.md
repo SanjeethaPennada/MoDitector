@@ -24,7 +24,7 @@ All the steps below is under this conda environment
 
 To running pylot in the experiment, excute
 
-    cd ads/system/Pylot_project
+    cd ads/systems/Pylot_project
     bash install.sh
     cd ../../..
 
